@@ -1,0 +1,25 @@
+.title {
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+.myname{
+  font-family: 'Tangerine', serif;
+  font-size: 24px;
+  text-shadow: 4px 4px 4px #aaa;
+  text-align: right;
+}
+
+h4{
+	text-align: center;
+}
+
+body {
+
+    font-family: 'Molengo', sans-serif;
+}
+
+h3 {
+	color: hotpink;
+}
